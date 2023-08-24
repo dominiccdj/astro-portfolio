@@ -32,3 +32,11 @@
     background-position: 0% 50%;
   }
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+#footerLabel {
+  padding-bottom: 30px;
+}
