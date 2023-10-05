@@ -32,8 +32,8 @@ export const info = {
     {
       name: "Software Developer Intern at Erste&Steiermärkische Bank d.d.",
       location: "Zagreb, Croatia",
-      startDate: "Jun 2019",
-      endDate: "Aug 2019",
+      startDate: "Jan 2020",
+      endDate: "Feb 2020",
       description: [
         "- Erste's IT Lab internship. Recreated one of their applications for managing compliances for internal use in modern MVC Core.",
         "- Technologies used: ASP.NET Core MVC, Oracle Database, JS & jQuery.",
